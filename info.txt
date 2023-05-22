@@ -1,2 +1,0 @@
-mailgun
-APIkey: 690c89be1402f5953b3493e029aebe6d-db4df449-0fe5a4a3
